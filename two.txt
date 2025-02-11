@@ -1,0 +1,2 @@
+Git Helps You Keep track of Codes Changes.
+And Is Used To Colloborate on Code 
